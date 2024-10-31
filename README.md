@@ -6,11 +6,11 @@
 
 ![](https://count.getloli.com/@whut-stqb?name=whut-stqb&theme=booru-ffsr)
 
-### 联系方式
+## 联系方式
 
 提交 Issues 或发送邮件到 yixuanoct@qq.com/yixuanoct@gmail.com
 
-### 许可证
+## 许可证
 
 本项目采用 [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)
 
