@@ -1,10 +1,13 @@
 package top.yixuanoct.whutsporttheoryquestionbank.pojo;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.List;
 
 public class Question {
     private String content;
     private int type;
+    @JsonProperty("right_answers")
     private String rightAnswer;
     private List<Option> options;
 
@@ -50,9 +53,10 @@ public class Question {
                 '}';
     }
 
-    public static class Option{
+    public static class Option {
         private String name;
         private String content;
+        @JsonProperty("is_right")
         private int isRight;
 
         public String getName() {
