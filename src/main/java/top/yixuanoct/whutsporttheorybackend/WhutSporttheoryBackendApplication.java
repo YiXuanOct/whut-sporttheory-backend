@@ -1,13 +1,13 @@
-package top.yixuanoct.whutsporttheoryquestionbank;
+package top.yixuanoct.whutsporttheorybackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhutSporttheoryQuestionbankApplication {
+public class WhutSporttheoryBackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhutSporttheoryQuestionbankApplication.class, args);
+        SpringApplication.run(WhutSporttheoryBackendApplication.class, args);
     }
 
 }

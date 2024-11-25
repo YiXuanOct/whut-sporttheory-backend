@@ -1,23 +1,23 @@
-package top.yixuanoct.whutsporttheoryquestionbank.service;
+package top.yixuanoct.whutsporttheorybackend.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import top.yixuanoct.whutsporttheoryquestionbank.pojo.Question;
-import top.yixuanoct.whutsporttheoryquestionbank.pojo.Request;
-import top.yixuanoct.whutsporttheoryquestionbank.repositroy.QuestionRepository;
+import top.yixuanoct.whutsporttheorybackend.pojo.Question;
+import top.yixuanoct.whutsporttheorybackend.pojo.Request;
+import top.yixuanoct.whutsporttheorybackend.repositroy.RequestRepository;
 
 import java.util.List;
 
 @Service
-public class QuestionService implements IQuestionService {
+public class RequestService implements IRequestService {
     @Autowired
-    private QuestionRepository questionRepository;
+    private RequestRepository requestRepository;
 
     @Override
     public List<Question> search(Request request) {
         String bank = request.getBank();
         String keyword = request.getKeyword();
-        List<Question> questions = questionRepository.findBank(bank);
+        List<Question> questions = requestRepository.findBank(bank);
         if (keyword == null || keyword.isEmpty()) {
             return questions;
         } else {

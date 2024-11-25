@@ -1,4 +1,4 @@
-package top.yixuanoct.whutsporttheoryquestionbank.pojo;
+package top.yixuanoct.whutsporttheorybackend.pojo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

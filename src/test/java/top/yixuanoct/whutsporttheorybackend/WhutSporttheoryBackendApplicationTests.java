@@ -1,10 +1,10 @@
-package top.yixuanoct.whutsporttheoryquestionbank;
+package top.yixuanoct.whutsporttheorybackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WhutSporttheoryQuestionbankApplicationTests {
+class WhutSporttheoryBackendApplicationTests {
 
     @Test
     void contextLoads() {
