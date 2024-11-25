@@ -1,1 +1,4753 @@
-[{"content": "在竞技跆拳道比赛中，有效拳击打躯干护具获得（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "1分", "is_right": 1}, {"name": "B", "content": "2分", "is_right": 0}, {"name": "C", "content": "3分", "is_right": 0}, {"name": "D", "content": "4分", "is_right": 0}]}, {"content": "跆拳道是一项利用（）和脚进行搏击的对抗性运动。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "掌", "is_right": 0}, {"name": "B", "content": "膝", "is_right": 0}, {"name": "C", "content": "拳", "is_right": 1}, {"name": "D", "content": "肘", "is_right": 0}]}, {"content": "在实战比赛中，哪种情况属于用拳有效击打（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "直拳击打对方头部", "is_right": 0}, {"name": "B", "content": "直拳击打对方护具有效部位", "is_right": 1}, {"name": "C", "content": "勾拳击打对方头部", "is_right": 0}, {"name": "D", "content": "勾拳击打对方腰部以下位置", "is_right": 0}]}, {"content": "以下教练员的那种行为是被允许的（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "不遵守主裁的口令或判定", "is_right": 0}, {"name": "B", "content": "辱骂对方选手或教练员", "is_right": 0}, {"name": "C", "content": "试图干扰比赛判定", "is_right": 0}, {"name": "D", "content": "休息期间给运动员讲解战术", "is_right": 1}]}, {"content": "国际首届跆拳道联盟主席由（）担任", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "罗格", "is_right": 0}, {"name": "B", "content": "魏纪中", "is_right": 0}, {"name": "C", "content": "崔泓熙", "is_right": 1}, {"name": "D", "content": "李金龙", "is_right": 0}]}, {"content": "当有三位边裁时，有其中几位边裁判定得分有效则为有效得分（）", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "主裁一个人判定", "is_right": 0}, {"name": "B", "content": "一位边裁", "is_right": 0}, {"name": "C", "content": "二位或三位边裁", "is_right": 1}, {"name": "D", "content": "主裁加一位边裁", "is_right": 0}]}, {"content": "在比赛中，优势判定卡由谁携带（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "主裁判", "is_right": 1}, {"name": "B", "content": "运动员", "is_right": 0}, {"name": "C", "content": "边裁", "is_right": 0}, {"name": "D", "content": "教练员", "is_right": 0}]}, {"content": "比赛中，躯干部分有效得分区域（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "被护具覆盖的所有区域", "is_right": 0}, {"name": "B", "content": "护具的蓝色或红色区域", "is_right": 1}, {"name": "C", "content": "运动员腰部以上所有区域", "is_right": 0}, {"name": "D", "content": "运动员全身", "is_right": 0}]}, {"content": "在比赛判定中，黄金得分胜的英文缩写为（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "GDP", "is_right": 1}, {"name": "B", "content": "SUP", "is_right": 0}, {"name": "C", "content": "WDR", "is_right": 0}, {"name": "D", "content": "DSQ", "is_right": 0}]}, {"content": "在黄金加时赛后，双方均未获得两分，则需通过（）的方式进行胜负判定。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "不道德行为失格胜", "is_right": 0}, {"name": "B", "content": "分差胜", "is_right": 0}, {"name": "C", "content": "优势判定胜", "is_right": 1}, {"name": "D", "content": "失格胜", "is_right": 0}]}, {"content": "如果参赛选手故意一再拒绝遵守竞赛规则或主裁的指令时，主裁可在比赛结束时（）并宣布对方选手获胜。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "出示黄牌", "is_right": 1}, {"name": "B", "content": "出示红牌", "is_right": 0}, {"name": "C", "content": "给选手扣分", "is_right": 0}, {"name": "D", "content": "给对方运动员加分", "is_right": 0}]}, {"content": "在比赛中，由于双方运动员比分相差悬殊而判定的比赛胜负被称为（）", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "主裁判终止比赛胜", "is_right": 0}, {"name": "B", "content": "失格胜", "is_right": 0}, {"name": "C", "content": "分差胜", "is_right": 1}, {"name": "D", "content": "优势判定胜", "is_right": 0}]}, {"content": "跆拳道起源于哪个国家（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "韩国", "is_right": 0}, {"name": "B", "content": "朝鲜半岛", "is_right": 1}, {"name": "C", "content": "中国", "is_right": 0}, {"name": "D", "content": "日本", "is_right": 0}]}, {"content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得（）冠军。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "67+公斤", "is_right": 1}, {"name": "B", "content": "57-67公斤级", "is_right": 0}, {"name": "C", "content": "49-47公斤级", "is_right": 0}, {"name": "D", "content": "49公斤级以下", "is_right": 0}]}, {"content": "中国跆拳道协会成立于（），魏纪中当选为第一任协会主席。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "1993年", "is_right": 0}, {"name": "B", "content": "1995年", "is_right": 1}, {"name": "C", "content": "1997年", "is_right": 0}, {"name": "D", "content": "1998年", "is_right": 0}]}, {"content": "中国跆拳道队历史上第一枚亚运会金牌由（）取得。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "贺璐敏", "is_right": 0}, {"name": "B", "content": "王朔", "is_right": 0}, {"name": "C", "content": "陈中", "is_right": 0}, {"name": "D", "content": "吴静钰", "is_right": 1}]}, {"content": "在胜负判定中，PTG是哪一种判定方式的简称（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "分差胜", "is_right": 1}, {"name": "B", "content": "黄金得分胜", "is_right": 0}, {"name": "C", "content": "最终局数胜", "is_right": 0}, {"name": "D", "content": "比分或优势胜", "is_right": 0}]}, {"content": "我国女子跆拳道运动员吴静钰，在2012年伦敦奥运会上取得（）冠军。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "72公斤级以上", "is_right": 0}, {"name": "B", "content": "57-67公斤级", "is_right": 0}, {"name": "C", "content": "49-57公斤级", "is_right": 0}, {"name": "D", "content": "49公斤级以下", "is_right": 1}]}, {"content": "2016年里约奥运会跆拳道比赛赛域场地面积为（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "6米X6米", "is_right": 0}, {"name": "B", "content": "8米X8米", "is_right": 1}, {"name": "C", "content": "10米X10米", "is_right": 0}, {"name": "D", "content": "12米X12米", "is_right": 0}]}, {"content": "我国男子跆拳道运动员赵帅在（）年奥运会上获得冠军。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "2004", "is_right": 0}, {"name": "B", "content": "2008", "is_right": 0}, {"name": "C", "content": "2012", "is_right": 0}, {"name": "D", "content": "2016", "is_right": 1}]}, {"content": "在实战比赛中，以下哪个行为不属于犯规行为（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "连续有效使用高位技术进攻", "is_right": 1}, {"name": "B", "content": "抬腿阻碍", "is_right": 0}, {"name": "C", "content": "选手或运动员的不良行为", "is_right": 0}, {"name": "D", "content": "攻击已倒地的运动员", "is_right": 0}]}, {"content": "教练、领队或其他MNA会员的潜在的违规行为不包括（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "比赛中对官员、对方或观众的过激言行", "is_right": 0}, {"name": "B", "content": "指示运动员参与不当行为，如赛后留在比赛区域", "is_right": 0}, {"name": "C", "content": "投掷或踢打私人物品或竞赛材料等暴力行为", "is_right": 0}, {"name": "D", "content": "赛后安慰失利运动员", "is_right": 1}]}, {"content": "在胜负判定中，GDP是哪一种判定方式的简称（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "黄金得分胜", "is_right": 1}, {"name": "B", "content": "最终局数胜", "is_right": 0}, {"name": "C", "content": "比分或优势胜", "is_right": 0}, {"name": "D", "content": "弃权胜", "is_right": 0}]}, {"content": "在比赛判定中，主裁判终止比赛胜的英文缩写为（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "PUN", "is_right": 0}, {"name": "B", "content": "DSQ", "is_right": 0}, {"name": "C", "content": "SUP", "is_right": 0}, {"name": "D", "content": "RSC", "is_right": 1}]}, {"content": "中国跆拳道队第一个小级别奥运冠军为（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "吴静钰", "is_right": 1}, {"name": "B", "content": "贺璐敏", "is_right": 0}, {"name": "C", "content": "陈中", "is_right": 0}, {"name": "D", "content": "赵帅", "is_right": 0}]}, {"content": "下列技术中，允许攻击头部的技术不包括（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "直拳", "is_right": 1}, {"name": "B", "content": "高位横踢", "is_right": 0}, {"name": "C", "content": "下劈", "is_right": 0}, {"name": "D", "content": "后旋踢", "is_right": 0}]}, {"content": "在实战比赛中，当对方选手摔倒后，应当（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "无论裁判是否喊停，均要停止进攻", "is_right": 1}, {"name": "B", "content": "继续进攻，等裁判喊停后再停止进攻", "is_right": 0}, {"name": "C", "content": "无论裁判是否喊停，均不停止进攻", "is_right": 0}, {"name": "D", "content": "看对方摔倒情况，不严重的话继续进攻", "is_right": 0}]}, {"content": "1973年5月世界跆拳道联盟成立于（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "韩国汉城", "is_right": 1}, {"name": "B", "content": "朝鲜半岛", "is_right": 0}, {"name": "C", "content": "美国纽约", "is_right": 0}, {"name": "D", "content": "日本东京", "is_right": 0}]}, {"content": "在胜负判定中，SUP是哪一种判定方式的简称（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "比分或优势胜", "is_right": 1}, {"name": "B", "content": "最终得分胜", "is_right": 0}, {"name": "C", "content": "弃权胜", "is_right": 0}, {"name": "D", "content": "失格胜", "is_right": 0}]}, {"content": "在比赛判定中，主裁判判罚犯规胜的英文缩写为（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "DSQ", "is_right": 0}, {"name": "B", "content": "SUP", "is_right": 0}, {"name": "C", "content": "PUN", "is_right": 1}, {"name": "D", "content": "PTG", "is_right": 0}]}, {"content": "我国女子跆拳道运动员罗微，在（）年奥运会获得冠军。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "2000", "is_right": 0}, {"name": "B", "content": "2004", "is_right": 1}, {"name": "C", "content": "2008", "is_right": 0}, {"name": "D", "content": "2012", "is_right": 0}]}, {"content": "中国男子跆拳道奥运会历史上的首枚金牌得主是（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "陈天阳", "is_right": 0}, {"name": "B", "content": "宋伟杰", "is_right": 0}, {"name": "C", "content": "赵帅", "is_right": 1}, {"name": "D", "content": "黄昌奇", "is_right": 0}]}, {"content": "在2016年伦敦奥运会中，利用后旋踢技术有效击中对方头部，获得（）分。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "2", "is_right": 0}, {"name": "B", "content": "3", "is_right": 0}, {"name": "C", "content": "4", "is_right": 0}, {"name": "D", "content": "5", "is_right": 1}]}, {"content": "下面哪些运动员不是我国女子跆拳道奥运会冠军（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "赵帅", "is_right": 1}, {"name": "B", "content": "吴静钰", "is_right": 0}, {"name": "C", "content": "陈中", "is_right": 0}, {"name": "D", "content": "罗微", "is_right": 0}]}, {"content": "当选手被击倒后，主裁读秒到8时，选手仍无法示意可以继续比赛，则通过（）宣判另一方选手“击倒胜”。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "裁判终止比赛", "is_right": 1}, {"name": "B", "content": "分差", "is_right": 0}, {"name": "C", "content": "优势判定", "is_right": 0}, {"name": "D", "content": "弃权", "is_right": 0}]}, {"content": "下面那种情况，在实战比赛中不属于犯规行为（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "直拳击打对方头部", "is_right": 0}, {"name": "B", "content": "直拳击打对方护具有效部位", "is_right": 1}, {"name": "C", "content": "故意回避或消极比赛", "is_right": 0}, {"name": "D", "content": "抬腿阻碍对方进攻", "is_right": 0}]}, {"content": "我国女子跆拳道运动员陈中，在2000年悉尼奥运会上取得（）冠军。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "72公斤级以上", "is_right": 0}, {"name": "B", "content": "57-67公斤级", "is_right": 1}, {"name": "C", "content": "49-57公斤级", "is_right": 0}, {"name": "D", "content": "49公斤级以下", "is_right": 0}]}, {"content": "2017年9月，（）获得“最多跆拳道女子金牌（轻量级选手）”吉尼斯世界纪录称号。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "吴静钰", "is_right": 1}, {"name": "B", "content": "贺璐敏", "is_right": 0}, {"name": "C", "content": "陈中", "is_right": 0}, {"name": "D", "content": "赵帅", "is_right": 0}]}, {"content": "在比赛判定中，不道德行为失格胜的英文缩写为（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "RSC", "is_right": 0}, {"name": "B", "content": "DQB", "is_right": 1}, {"name": "C", "content": "PTF", "is_right": 0}, {"name": "D", "content": "DSQ", "is_right": 0}]}, {"content": "在2022年跆拳道世锦赛中，单次有效得分为2分的技术有（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "旋风踢击中对方头部", "is_right": 0}, {"name": "B", "content": "下劈腿法有效击中对方头部", "is_right": 0}, {"name": "C", "content": "高位横踢有效击中对方头部", "is_right": 0}, {"name": "D", "content": "横踢击中对方躯干护具", "is_right": 1}]}, {"content": "在2022年跆拳道世锦赛中，选手利用有效旋转腿法击中对方选手躯干护具形成有效得分（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "3分", "is_right": 0}, {"name": "B", "content": "4分", "is_right": 1}, {"name": "C", "content": "5分", "is_right": 0}, {"name": "D", "content": "6分", "is_right": 0}]}, {"content": "在胜负判定中，DSQ是哪一种判定方式的简称（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "失格胜", "is_right": 1}, {"name": "B", "content": "弃权胜", "is_right": 0}, {"name": "C", "content": "主裁判罚犯规胜", "is_right": 0}, {"name": "D", "content": "不道德行为失格胜", "is_right": 0}]}, {"content": "中国跆拳道队第一个小级别奥运冠军在哪一年获得（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "2000", "is_right": 0}, {"name": "B", "content": "2004", "is_right": 0}, {"name": "C", "content": "2008", "is_right": 1}, {"name": "D", "content": "2012", "is_right": 0}]}, {"content": "下列哪位选手，没有在奥运会跆拳道项目获得过冠军的是（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "赵帅", "is_right": 0}, {"name": "B", "content": "陈中", "is_right": 0}, {"name": "C", "content": "贺璐敏", "is_right": 1}, {"name": "D", "content": "吴静钰", "is_right": 0}]}, {"content": "在比赛中，由于一方运动员弃权而判定比赛胜负的方式被称为（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "主裁判终止比赛胜", "is_right": 0}, {"name": "B", "content": "弃权胜", "is_right": 1}, {"name": "C", "content": "分差胜", "is_right": 0}, {"name": "D", "content": "优势判定胜", "is_right": 0}]}, {"content": "在比赛判定中，失格胜的英文缩写为（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "PUN", "is_right": 0}, {"name": "B", "content": "SUP", "is_right": 0}, {"name": "C", "content": "DSQ", "is_right": 1}, {"name": "D", "content": "PTG", "is_right": 0}]}, {"content": "在赛前称重过程中，青少年运动员必须穿着内衣进行称重，并允许有（）的误差。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "50g", "is_right": 0}, {"name": "B", "content": "200g", "is_right": 0}, {"name": "C", "content": "150g", "is_right": 0}, {"name": "D", "content": "100g", "is_right": 1}]}, {"content": "运动员潜在的违规行为包括（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "篡改PSS的积分器、传感器", "is_right": 1}, {"name": "B", "content": "由于被攻击而重心不稳倒地", "is_right": 0}, {"name": "C", "content": "合理技术连续有效攻击对方头部", "is_right": 0}, {"name": "D", "content": "直拳攻击对方选手护具", "is_right": 0}]}, {"content": "当选手被击倒后，主裁读秒到（）秒时，选手仍无法示意可以继续比赛，则通过裁判停止比赛宣判另一方选手“击倒胜”。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "5", "is_right": 0}, {"name": "B", "content": "6", "is_right": 0}, {"name": "C", "content": "7", "is_right": 0}, {"name": "D", "content": "8", "is_right": 1}]}, {"content": "在胜负判定中，PUN是哪一种判定方式的简称（）", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "主裁判罚犯规胜", "is_right": 1}, {"name": "B", "content": "弃权胜", "is_right": 0}, {"name": "C", "content": "失格胜", "is_right": 0}, {"name": "D", "content": "最终得分胜", "is_right": 0}]}, {"content": "我国男子跆拳道运动员赵帅在2016年里约奥运会上获得（）冠军。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "58公斤级以下", "is_right": 1}, {"name": "B", "content": "58-68公斤级", "is_right": 0}, {"name": "C", "content": "68-80公斤级", "is_right": 0}, {"name": "D", "content": "80公斤级以上", "is_right": 0}]}, {"content": "实战比赛中，制定违规行为及惩罚的主要目的不包括（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "增加比赛的娱乐性", "is_right": 1}, {"name": "B", "content": "保护参赛运动员的安全", "is_right": 0}, {"name": "C", "content": "确保公平竞赛", "is_right": 0}, {"name": "D", "content": "鼓励使用恰当的技术", "is_right": 0}]}, {"content": "我国女子跆拳道运动员罗微，在2004年雅典奥运会上取得（）冠军。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "72公斤级以上", "is_right": 0}, {"name": "B", "content": "57-67公斤级", "is_right": 1}, {"name": "C", "content": "49-57公斤级", "is_right": 0}, {"name": "D", "content": "49公斤级以下", "is_right": 0}]}, {"content": "跆拳道品势的掌法不包括（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "手刀", "is_right": 0}, {"name": "B", "content": "背刀", "is_right": 0}, {"name": "C", "content": "劈掌", "is_right": 1}, {"name": "D", "content": "贯手", "is_right": 0}]}, {"content": "中国跆拳道队历史上第一枚亚运会金牌在（）取得。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "2002", "is_right": 0}, {"name": "B", "content": "2006", "is_right": 1}, {"name": "C", "content": "2010", "is_right": 0}, {"name": "D", "content": "2014", "is_right": 0}]}, {"content": "在2022年跆拳道世锦赛中，选手利用旋风踢击中对方选手头部形成有效得分（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "3分", "is_right": 0}, {"name": "B", "content": "4分", "is_right": 0}, {"name": "C", "content": "5分", "is_right": 1}, {"name": "D", "content": "6分", "is_right": 0}]}, {"content": "在比赛判定中，弃权胜的英文缩写为（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "WDR", "is_right": 1}, {"name": "B", "content": "SUP", "is_right": 0}, {"name": "C", "content": "PTF", "is_right": 0}, {"name": "D", "content": "PTG", "is_right": 0}]}, {"content": "下列哪些行为不属于消极或回避比赛的行为（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "伪装受伤拖延比赛", "is_right": 0}, {"name": "B", "content": "为逃避对方选手进攻而转身、弯腰等行为", "is_right": 0}, {"name": "C", "content": "故意倒地拖延比赛时间", "is_right": 0}, {"name": "D", "content": "被对手击中后重心不稳倒地", "is_right": 1}]}, {"content": "在实战比赛中，如果得分发生在犯规后（因犯规而获得比分），得分应如何处理（）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "主裁判应宣布得分无效", "is_right": 1}, {"name": "B", "content": "得分有效，不做处理", "is_right": 0}, {"name": "C", "content": "主裁判与其他裁判商量得分是否有效", "is_right": 0}, {"name": "D", "content": "得分有效，但扣除犯规1分", "is_right": 0}]}, {"content": "运动员潜在的违规行为不包括（）。", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "比赛结束后不离开比赛区域", "is_right": 0}, {"name": "B", "content": "流程不遵守竞赛官员的裁决或命", "is_right": 0}, {"name": "C", "content": "在裁判的一再命令下不回到比赛中", "is_right": 0}, {"name": "D", "content": "被攻击后由于重心不稳倒地", "is_right": 1}]}, {"content": "下列哪些缩写不属于判定胜负时判定方式的缩写（）", "type": 1, "right_answers": "D", "options": [{"name": "A", "content": "PUN", "is_right": 0}, {"name": "B", "content": "PTF", "is_right": 0}, {"name": "C", "content": "RSC", "is_right": 0}, {"name": "D", "content": "CDS", "is_right": 1}]}, {"content": "下面那一名运动员为中国赢得了跆拳道项目中第一枚亚洲冠军（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "陈中", "is_right": 0}, {"name": "B", "content": "贺璐敏", "is_right": 1}, {"name": "C", "content": "王朔", "is_right": 0}, {"name": "D", "content": "吴静钰", "is_right": 0}]}, {"content": "在比赛判定中，比分或优势胜的英文缩写为（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "GDP", "is_right": 0}, {"name": "B", "content": "SUP", "is_right": 1}, {"name": "C", "content": "PTF", "is_right": 0}, {"name": "D", "content": "DSQ", "is_right": 0}]}, {"content": "在2022年跆拳道世锦赛中，单次有效得分为3分的技术有（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "旋风踢击中对方头部", "is_right": 0}, {"name": "B", "content": "下劈腿法有效击中对方头部", "is_right": 1}, {"name": "C", "content": "横踢有效击中对方躯干护具", "is_right": 0}, {"name": "D", "content": "后踢击中对方躯干护具", "is_right": 0}]}, {"content": "教练、领队或其他MNA会员的潜在的违规行为不包括（）。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "任何贿赂竞争事务官员的企图", "is_right": 0}, {"name": "B", "content": "赛后为选手进行技战术分析", "is_right": 1}, {"name": "C", "content": "任何对竞赛管理官员的其他严重不当行为", "is_right": 0}, {"name": "D", "content": "不按照竞赛官员的指示离开比赛场地或场馆", "is_right": 0}]}, {"content": "在跆拳道项目中，我国第一个获得世界冠军的运动员是（）。", "type": 1, "right_answers": "C", "options": [{"name": "A", "content": "陈中", "is_right": 0}, {"name": "B", "content": "贺璐敏", "is_right": 0}, {"name": "C", "content": "王朔", "is_right": 1}, {"name": "D", "content": "吴静钰", "is_right": 0}]}, {"content": "跆拳道项目由（）年奥运会被列为正式比赛项目。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "2004", "is_right": 0}, {"name": "B", "content": "2000", "is_right": 1}, {"name": "C", "content": "1996", "is_right": 0}, {"name": "D", "content": "2008", "is_right": 0}]}, {"content": "中国跆拳道协会成立于1995年，（）当选为第一任协会主席。", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "金云龙", "is_right": 0}, {"name": "B", "content": "魏纪中", "is_right": 1}, {"name": "C", "content": "陈中", "is_right": 0}, {"name": "D", "content": "贺璐敏", "is_right": 0}]}, {"content": "当选手被对方有效技术击打倒地后，主裁读秒到8时，选手仍无法示意可以继续比赛，则通过裁判停止比赛宣判另一方选手（A）。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "击倒胜", "is_right": 1}, {"name": "B", "content": "优势胜", "is_right": 0}, {"name": "C", "content": "比分胜", "is_right": 0}, {"name": "D", "content": "分差胜", "is_right": 0}]}, {"content": "录像审议的范围仅限于教练在提出请求的（）以内的一个动作。", "type": 1, "right_answers": "A", "options": [{"name": "A", "content": "前5秒钟", "is_right": 1}, {"name": "B", "content": "前20秒钟", "is_right": 0}, {"name": "C", "content": "前30秒钟", "is_right": 0}, {"name": "D", "content": "前一分钟", "is_right": 0}]}, {"content": "下列哪些缩写不属于判定胜负时判定方式的缩写（）", "type": 1, "right_answers": "B", "options": [{"name": "A", "content": "KO", "is_right": 0}, {"name": "B", "content": "REC", "is_right": 1}, {"name": "C", "content": "WDR、", "is_right": 0}, {"name": "D", "content": "PTE", "is_right": 0}]}, {"content": "现代跆拳道的主要特点包括（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "以腿法为主，拳脚并用", "is_right": 1}, {"name": "B", "content": "以击破为测试功力的手段", "is_right": 1}, {"name": "C", "content": "强调气势，发声扬威", "is_right": 1}, {"name": "D", "content": "礼始礼终，培养良好道德品质", "is_right": 1}]}, {"content": "跆拳道品势的掌法包括（）。", "type": 2, "right_answers": "ABD", "options": [{"name": "A", "content": "手刀", "is_right": 1}, {"name": "B", "content": "背刀", "is_right": 1}, {"name": "C", "content": "劈掌", "is_right": 0}, {"name": "D", "content": "贯手", "is_right": 1}]}, {"content": "下面哪些是运动员是我国女子跆拳道奥运会冠军（）。", "type": 2, "right_answers": "ACD", "options": [{"name": "A", "content": "陈中", "is_right": 1}, {"name": "B", "content": "贺璐敏", "is_right": 0}, {"name": "C", "content": "罗微", "is_right": 1}, {"name": "D", "content": "吴静钰", "is_right": 1}]}, {"content": "在实战比赛中以下哪些属于犯规行为（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "越出边界线", "is_right": 1}, {"name": "B", "content": "倒地", "is_right": 1}, {"name": "C", "content": "故意回避或消极比赛", "is_right": 1}, {"name": "D", "content": "抓或推对方运动员", "is_right": 1}]}, {"content": "以下哪些行为属于教练员不良行为（）。", "type": 2, "right_answers": "ABD", "options": [{"name": "A", "content": "不遵守主裁的口令或判定", "is_right": 1}, {"name": "B", "content": "辱骂对方选手或教练员", "is_right": 1}, {"name": "C", "content": "休息期间给运动员讲解战术", "is_right": 0}, {"name": "D", "content": "试图干扰比赛判定", "is_right": 1}]}, {"content": "教练、领队或其他MNA会员的潜在的违规行为包括（）。", "type": 2, "right_answers": "BCD", "options": [{"name": "A", "content": "赛后安慰失利运动员", "is_right": 0}, {"name": "B", "content": "比赛中对官员、对方或观众的过激言行", "is_right": 1}, {"name": "C", "content": "指示运动员参与不当行为，如赛后留在比赛区域", "is_right": 1}, {"name": "D", "content": "投掷或踢打私人物品或竞赛材料等暴力行为", "is_right": 1}]}, {"content": "在下列陈述中，不正确的陈述有（）。", "type": 2, "right_answers": "ABC", "options": [{"name": "A", "content": "我国男子跆拳道运动员赵帅在2012年里伦敦运会上获得冠军", "is_right": 1}, {"name": "B", "content": "比赛中，允许使用直拳攻击对方运动员头部。", "is_right": 1}, {"name": "C", "content": "中国跆拳道协会成立于1997年8月，魏纪中当选为第一任协会主席", "is_right": 1}, {"name": "D", "content": "实战比赛中，当对方运动员摔倒后则不允许继续攻击", "is_right": 0}]}, {"content": "在2016年里约奥运会中，单次有效得分为3分的技术有（）。", "type": 2, "right_answers": "BC", "options": [{"name": "A", "content": "旋风踢击中对方头部", "is_right": 0}, {"name": "B", "content": "下劈腿法有效击中对方头部", "is_right": 1}, {"name": "C", "content": "高位横踢有效击中对方头部", "is_right": 1}, {"name": "D", "content": "后旋踢击中对方头部", "is_right": 0}]}, {"content": "实战比赛中，制定违规行为及惩罚的主要目的是（）。", "type": 2, "right_answers": "BCD", "options": [{"name": "A", "content": "增加比赛的娱乐性", "is_right": 0}, {"name": "B", "content": "保护参赛运动员的安全", "is_right": 1}, {"name": "C", "content": "确保公平竞赛", "is_right": 1}, {"name": "D", "content": "鼓励使用恰当的技术", "is_right": 1}]}, {"content": "在实战比赛中，当对方选手摔倒后，下列哪些行为是不正确的（）。", "type": 2, "right_answers": "BCD", "options": [{"name": "A", "content": "无论裁判是否喊停，均要停止进攻", "is_right": 0}, {"name": "B", "content": "继续进攻，等裁判喊停后再停止进攻", "is_right": 1}, {"name": "C", "content": "无论裁判是否喊停，均不停止进攻", "is_right": 1}, {"name": "D", "content": "看对方摔倒情况，不严重的话继续进攻", "is_right": 1}]}, {"content": "运动员潜在的违规行为包括（）。", "type": 2, "right_answers": "ACD", "options": [{"name": "A", "content": "篡改PSS的积分器、传感器", "is_right": 1}, {"name": "B", "content": "由于被攻击而重心不稳倒地", "is_right": 0}, {"name": "C", "content": "为表示对判定结果的不满而投掷物品", "is_right": 1}, {"name": "D", "content": "在裁判的一再命令下不回到比赛中", "is_right": 1}]}, {"content": "在比赛中，得分区域包括（）。", "type": 2, "right_answers": "AB", "options": [{"name": "A", "content": "躯干：护具的蓝色或红色区域", "is_right": 1}, {"name": "B", "content": "头部：头盔底边上方的所有头部区", "is_right": 1}, {"name": "C", "content": "运动员腰部以上所有区域", "is_right": 0}, {"name": "D", "content": "运动员全身", "is_right": 0}]}, {"content": "以下哪些方式是比赛中判定胜负的方式（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "主裁判终止比赛胜", "is_right": 1}, {"name": "B", "content": "比分或优势胜", "is_right": 1}, {"name": "C", "content": "黄金得分胜", "is_right": 1}, {"name": "D", "content": "分差胜", "is_right": 1}]}, {"content": "我国女子跆拳道运动员吴静钰，在（）届奥运会中取得冠军。", "type": 2, "right_answers": "BC", "options": [{"name": "A", "content": "28", "is_right": 0}, {"name": "B", "content": "29", "is_right": 1}, {"name": "C", "content": "30", "is_right": 1}, {"name": "D", "content": "31", "is_right": 0}]}, {"content": "在实战比赛中，那种情况不属于用拳有效击打（）。", "type": 2, "right_answers": "ACD", "options": [{"name": "A", "content": "直拳击打对方头部", "is_right": 1}, {"name": "B", "content": "直拳击打对方躯干护具有效部位", "is_right": 0}, {"name": "C", "content": "勾拳击打对方头部", "is_right": 1}, {"name": "D", "content": "勾拳击打对方腰部以下位置", "is_right": 1}]}, {"content": "下列技术中，允许攻击头部的技术包括（）。", "type": 2, "right_answers": "BCD", "options": [{"name": "A", "content": "直拳", "is_right": 0}, {"name": "B", "content": "高位横踢", "is_right": 1}, {"name": "C", "content": "下劈", "is_right": 1}, {"name": "D", "content": "后旋踢", "is_right": 1}]}, {"content": "在一般情况下，下列哪些腿法是用来攻击对方选手头部的（）。", "type": 2, "right_answers": "ABC", "options": [{"name": "A", "content": "下劈", "is_right": 1}, {"name": "B", "content": "后旋踢", "is_right": 1}, {"name": "C", "content": "高位横踢", "is_right": 1}, {"name": "D", "content": "中位横踢", "is_right": 0}]}, {"content": "下列哪些行为属于消极或回避比赛的行为，将会被判罚扣分（）。", "type": 2, "right_answers": "ABC", "options": [{"name": "A", "content": "伪装受伤拖延比赛", "is_right": 1}, {"name": "B", "content": "为逃避对方选手进攻而转身、弯腰等行", "is_right": 1}, {"name": "C", "content": "故意倒地拖延比赛时间", "is_right": 1}, {"name": "D", "content": "被对手击中后重心不稳倒地", "is_right": 0}]}, {"content": "我国女子跆拳道运动员陈中，在（）年奥运会中取得冠军。", "type": 2, "right_answers": "BC", "options": [{"name": "A", "content": "1996", "is_right": 0}, {"name": "B", "content": "2000", "is_right": 1}, {"name": "C", "content": "2004", "is_right": 1}, {"name": "D", "content": "2008", "is_right": 0}]}, {"content": "运动员潜在的违规行为不包括（）。", "type": 2, "right_answers": "BD", "options": [{"name": "A", "content": "篡改PSS的积分器、传感器", "is_right": 0}, {"name": "B", "content": "合理技术连续有效攻击对方头部", "is_right": 1}, {"name": "C", "content": "为表示对判定结果的不满而投掷物品", "is_right": 0}, {"name": "D", "content": "由于被攻击而重心不稳倒地", "is_right": 1}]}, {"content": "跆拳道具有哪些作用（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "改善和增强体质", "is_right": 1}, {"name": "B", "content": "娱乐观赏", "is_right": 1}, {"name": "C", "content": "提高防身和自卫的能力", "is_right": 1}, {"name": "D", "content": "磨炼意志，培养高品格的修养", "is_right": 1}]}, {"content": "在实战比赛中，以下哪些属于犯规行为（）", "type": 2, "right_answers": "BCD", "options": [{"name": "A", "content": "连续有效使用高位技术进攻", "is_right": 0}, {"name": "B", "content": "抬腿阻碍", "is_right": 1}, {"name": "C", "content": "选手或运动员的不良行为", "is_right": 1}, {"name": "D", "content": "攻击已倒地的运动员", "is_right": 1}]}, {"content": "在实战比赛中，允许用有效技术击打对方运动员（）", "type": 2, "right_answers": "AB", "options": [{"name": "A", "content": "头部", "is_right": 1}, {"name": "B", "content": "躯干护具", "is_right": 1}, {"name": "C", "content": "大腿", "is_right": 0}, {"name": "D", "content": "脊柱", "is_right": 0}]}, {"content": "下列哪些描述是错误的（）。", "type": 2, "right_answers": "BD", "options": [{"name": "A", "content": "在2012年伦敦奥运会上，比赛场地赛区规格采用8米X8米", "is_right": 0}, {"name": "B", "content": "在2012年伦敦奥运会上，比赛场地赛区规格采用10米X10米", "is_right": 1}, {"name": "C", "content": "在2016年里约奥运会上，横踢单次有效击中头部比击中躯干护具多一分", "is_right": 0}, {"name": "D", "content": "在2016年里约奥运会上，横踢单次有效击中头部比击中躯干护具多二分", "is_right": 1}]}, {"content": "下面哪些是运动员是我国跆拳道奥运会冠军（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "赵帅", "is_right": 1}, {"name": "B", "content": "吴静钰", "is_right": 1}, {"name": "C", "content": "陈中", "is_right": 1}, {"name": "D", "content": "罗微", "is_right": 1}]}, {"content": "抓或推对方运动员，有下列行为之一的，应予以判罚犯规（）", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "将对手推出边界线", "is_right": 1}, {"name": "B", "content": "抓对方的道服", "is_right": 1}, {"name": "C", "content": "以推的方式阻碍对手的攻击或任何干扰正常的进攻技术动作", "is_right": 1}, {"name": "D", "content": "抱住对方腿部", "is_right": 1}]}, {"content": "跆拳道是一项利用（）进行搏击的对抗性运动。", "type": 2, "right_answers": "BC", "options": [{"name": "A", "content": "掌", "is_right": 0}, {"name": "B", "content": "脚", "is_right": 1}, {"name": "C", "content": "拳", "is_right": 1}, {"name": "D", "content": "肘", "is_right": 0}]}, {"content": "在实战比赛中，下列哪些属于犯规行为（）。", "type": 2, "right_answers": "ABC", "options": [{"name": "A", "content": "攻击对方运动员腰部以下位置", "is_right": 1}, {"name": "B", "content": "抬腿阻碍", "is_right": 1}, {"name": "C", "content": "用手攻击对方运动员头部", "is_right": 1}, {"name": "D", "content": "使用有效技术攻击对方运动员护具", "is_right": 0}]}, {"content": "运动员潜在的违规行为包括（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "比赛结束后不离开比赛区域", "is_right": 1}, {"name": "B", "content": "流程中不遵守竞赛官员的裁决或命", "is_right": 1}, {"name": "C", "content": "在裁判的一再命令下不回到比赛中", "is_right": 1}, {"name": "D", "content": "不服从主裁的指令完成比赛结束", "is_right": 1}]}, {"content": "下列哪些描述是正确的（）。", "type": 2, "right_answers": "AC", "options": [{"name": "A", "content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一", "is_right": 1}, {"name": "B", "content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军", "is_right": 0}, {"name": "C", "content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅", "is_right": 1}, {"name": "D", "content": "在比赛中，可以采用拳的相关技术击打对方运动员头部", "is_right": 0}]}, {"content": "在下列描述中，哪些描述是错误的（）。", "type": 2, "right_answers": "AC", "options": [{"name": "A", "content": "在比赛中，允许攻击运动员腰部以下部位", "is_right": 1}, {"name": "B", "content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的", "is_right": 0}, {"name": "C", "content": "在判定方法中，主裁判终止比赛胜的英文缩写为GDP", "is_right": 1}, {"name": "D", "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军", "is_right": 0}]}, {"content": "下列哪些属于跆拳道的腿法（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "前踢腿", "is_right": 1}, {"name": "B", "content": "横踢腿", "is_right": 1}, {"name": "C", "content": "下劈", "is_right": 1}, {"name": "D", "content": "后踢", "is_right": 1}]}, {"content": "下列哪些属于跆拳道的转身或旋转腿法（）。", "type": 2, "right_answers": "ABC", "options": [{"name": "A", "content": "旋风踢", "is_right": 1}, {"name": "B", "content": "后旋踢", "is_right": 1}, {"name": "C", "content": "后踢", "is_right": 1}, {"name": "D", "content": "双飞", "is_right": 0}]}, {"content": "在实战比赛中，不允许使用的拳击技术包括（）。", "type": 2, "right_answers": "ABD", "options": [{"name": "A", "content": "勾拳", "is_right": 1}, {"name": "B", "content": "摆拳", "is_right": 1}, {"name": "C", "content": "直拳", "is_right": 0}, {"name": "D", "content": "背拳", "is_right": 1}]}, {"content": "教练、领队或其他MNA会员的潜在的违规行为包括（）。", "type": 2, "right_answers": "BC", "options": [{"name": "A", "content": "休息期间鼓励运动员", "is_right": 0}, {"name": "B", "content": "不按照竞赛官员的指示离开比赛场地或场馆", "is_right": 1}, {"name": "C", "content": "任何对竞赛管理官员的其他严重不当行为", "is_right": 1}, {"name": "D", "content": "休息期间给运动员讲解技战术", "is_right": 0}]}, {"content": "下列技术中，不允许攻击头部的技术包括（）。", "type": 2, "right_answers": "AC", "options": [{"name": "A", "content": "直拳", "is_right": 1}, {"name": "B", "content": "高位横踢", "is_right": 0}, {"name": "C", "content": "勾拳", "is_right": 1}, {"name": "D", "content": "后旋踢", "is_right": 0}]}, {"content": "在实战比赛中，不允许攻击对方选手下列哪些部位（）。", "type": 2, "right_answers": "ABD", "options": [{"name": "A", "content": "膝盖", "is_right": 1}, {"name": "B", "content": "小腿", "is_right": 1}, {"name": "C", "content": "头部", "is_right": 0}, {"name": "D", "content": "脊柱", "is_right": 1}]}, {"content": "下列哪些描述是错误的（）。", "type": 2, "right_answers": "BD", "options": [{"name": "A", "content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一", "is_right": 0}, {"name": "B", "content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军", "is_right": 1}, {"name": "C", "content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅", "is_right": 0}, {"name": "D", "content": "在比赛中，可以采用拳的相关技术击打对方运动员头部", "is_right": 1}]}, {"content": "下列哪些属于跆拳道的腿法（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "旋风踢", "is_right": 1}, {"name": "B", "content": "后旋踢", "is_right": 1}, {"name": "C", "content": "后踢", "is_right": 1}, {"name": "D", "content": "双飞", "is_right": 1}]}, {"content": "在下列描述中，哪些描述是正确的（）。", "type": 2, "right_answers": "ABD", "options": [{"name": "A", "content": "2016年里约奥运会跆拳道比赛赛域场地面积为8米X8米", "is_right": 1}, {"name": "B", "content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的", "is_right": 1}, {"name": "C", "content": "在判定方法中，主裁判终止比赛胜的英文缩写为GDP", "is_right": 0}, {"name": "D", "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军", "is_right": 1}]}, {"content": "我国跆拳道队获得过冠军的奥运会包括（）。", "type": 2, "right_answers": "ABCD", "options": [{"name": "A", "content": "2004年雅典奥运会", "is_right": 1}, {"name": "B", "content": "2008年北京奥运会", "is_right": 1}, {"name": "C", "content": "2012年伦敦奥运会", "is_right": 1}, {"name": "D", "content": "2016年里约奥运会", "is_right": 1}]}, {"content": "下列哪些不属于跆拳道的转身或旋转腿法的是（）。", "type": 2, "right_answers": "CD", "options": [{"name": "A", "content": "旋风踢", "is_right": 0}, {"name": "B", "content": "后旋踢", "is_right": 0}, {"name": "C", "content": "横踢", "is_right": 1}, {"name": "D", "content": "下劈", "is_right": 1}]}, {"content": "跆拳道是一项利用拳和脚进行搏击的对抗性运动。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "国际跆拳道联盟（ITF）成立于1968年。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在实战比赛中，运动员辱骂对方运动员或教练员的行为是不被允许的。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "1973年5月世界跆拳道联盟成立于韩国汉城。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "2012年伦敦奥运会跆拳道比赛赛区场地面积为12米乘以12米。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道比赛赛区场地面积使用过12米乘以12米，10米乘以10米，8米乘以8米等几种规格。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "跆拳道比赛赛制包括循环赛制和单败淘汰赛制。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "跆拳道中手刀、背刀和贯手这三个掌法限用于跆拳道品势比赛中。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在竞技跆拳道比赛中可以使用手刀进行攻击对方颈部。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "竞技跆拳道比赛中仅能使用腿法技术得分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "竞技跆拳道比赛中可以使用直拳进行正面进攻，但直拳只允许攻击对方运动员躯干护具。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "竞技跆拳道比赛中，使用拳法攻击对方运动员头部属于犯规动作。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "比赛过程中，运动员允许击打对方运动员脊柱部分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "中国跆拳道队第一个小级别奥运冠军是吴静钰。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在2016年伦敦奥运会中，有效旋转技术击打头部获得4分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道实战比赛中，不允许用拳进行攻击。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道项目在2000年奥运会中被列为奥运会正式比赛项目。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，如果得分发生在犯规后（因犯规而获得比分），主裁判应宣布得分无效。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，允许有效腿击技术攻击对方运动员头部。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，允许辱骂对方运动员。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在品势比赛中包含了个人比赛和团体比赛。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "王朔是我国第一个获得跆拳道世界冠军的运动员。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，有效转身技术击打对方头部护具得分要高于非旋转技术击打对方头部护具。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "竞技比赛中，抓抱对方运动员属于犯规动作。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“试图扰乱或影响比赛结果的不当行为”不属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“试图扰乱或影响比赛结果的不当行为”属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在赛前称重过程中，青少年运动员必须穿着内衣进行称重，并允许有200g的误差。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "国际跆拳道联盟首届主席由崔泓熙担任。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“以腿法为主，拳脚并用”是现代跆拳道的特点之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，允许攻击对方运动员腰部以下位置。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“磨炼意志，培养高品格的修养”是现代跆拳道的作用之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，不允许消极或者刻意回避比赛。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "跆拳道项目由1996年奥运会被列为正式比赛项目。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在竞技跆拳道比赛中，攻击对方运动员腰部以下位置属于犯规动作。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，用掌击打护具有效部位得1分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "横踢、下劈腿、后旋踢、旋风踢均属于跆拳道的腿法技术。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国女子跆拳道运动员吴静钰，在2008年北京奥运会上获得女子小公斤级冠军。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，利用后旋踢有效击中对方躯干护具得5分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "实战比赛中，不允许攻击已倒地的运动员。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "中国跆拳道队历史上第一枚亚运会金牌由贺璐敏取得。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“鼓励使用恰当的技术”是制定违规行为及惩罚的目的之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在比赛中，如果运动员故意倒地，则要被判罚犯规。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国女子跆拳道运动员陈中，在2008年北京奥运会上获得冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在实战比赛中，对判罚有异议，允许教练员合理使用录像审议。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“增加比赛的观赏性”是制定违规行为及惩罚的主要目的之一。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "当运动员累计犯规达到一定次数时，主裁判应通过判罚“犯规胜”宣布该名选手为败方。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“失格胜”是实战比赛中的一种判定胜负的方式。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "比赛中判罚“犯规胜”由边裁而不是主裁判罚。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在黄金加时赛后，双方均未获得腿法技术加分，则需通过优势判定的方式进行胜负判定。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在竞技实战比赛中，有效拳击打躯干护具获得1分。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国女子跆拳道运动员吴静钰在2008年北京奥运会与2012年伦敦奥运会上均取得冠军。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国男子跆拳道运动员赵帅在2016年里约奥运会上获得58公斤级冠军。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "实战比赛中，在主裁判发出分开口令后，允许攻击对方运动员。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道项目不具有娱乐观赏的价值和作用。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在实战比赛中，允许攻击已经倒地的运动员。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“主裁终止比赛胜”是实战比赛中的一种判定胜负的方式。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "优势判定，应基于对手的技术优势，通过积极的比赛控制，较多的技术运用、难度和复杂程度较高的技术运用以及更好的比赛方式展示。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，运动员只能通过脚的技术来进攻。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“不遵守主裁的指令或判定”属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在比赛中，由于对方运动员出现不道德行为而获胜的情况称为“不道德行为失格胜”。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "中国跆拳道协会成立于1995年8月，魏纪中当选为第一任协会主席。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "实战比赛中，当对方运动员摔倒后则不允许继续攻击。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，当选手用拳有效击打对方运动员护具后获得2分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“对官员判定的不当抗议行为”属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在比赛中，允许攻击运动员腰部以下部位。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在判定方法中，比分或优势胜判定的英文缩写为GDP。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "2016年里约奥运会跆拳道比赛赛域场地面积为8米X8米。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国男子运动员目前为止没有获得过奥运会冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "我国女子跆拳道运动员吴静钰，在2008年北京奥运会上获得47-57公斤级冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在比赛过程，由于选手犯规而导致的对方选手不能继续进行比赛，则采用“犯规胜”来判定对方运动员获胜。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国男子跆拳道运动员赵帅在里约奥运会上获得58-68公斤级冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在2018年更新的跆拳道规则中，有效转身技术击打护具获得2分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在竞技跆拳道比赛中，单次有效转身技术击打头部护具要比击打躯干护具得分高。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "中国跆拳道队第一个小级别奥运冠军为赵帅。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“发现未经认证的医生或其他队伍人员坐在医生席”不属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "如果参赛选手故意一再拒绝遵守跆拳道竞赛规则或主裁的指令时，主裁可在比赛结束时出示黄牌并宣布对方选手获胜。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“提高防身和自卫的能力”是现代跆拳道的作用之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，允许辱骂对方教练员。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“保护参赛运动员的安全”是制定违规行为及惩罚的目的之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛开始后，选手或教练员提出的弃权行为是不被允许的。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "2017年9月，吴静钰获得“最多跆拳道女子金牌（轻量级选手）”吉尼斯世界纪录称号。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国女子跆拳道运动员贺璐敏，在2000年悉尼奥运会上获得冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "比赛中判罚“犯规胜”由主裁判罚。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "跆拳道中手刀、背刀和贯手这三个掌法限用于跆拳道实战比赛中。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“强调气势，发声扬威”是现代跆拳道的特点之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在实战比赛中，允许抬腿阻碍对方运动员进攻。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“分差胜”是实战比赛中的一种判定胜负的方式。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在比赛中，可以采用拳的相关技术击打对方运动员头部。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道起源于韩国。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在比赛中，即使双方运动员比赛分数相差悬殊到一定程度，也不能作为比赛判定的依据。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在实战比赛中，当选手用拳击打对方运动员头部后获得3分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "“确保公平竞赛”是制定违规行为及惩罚的目的之一。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}, {"content": "在竞技跆拳道比赛中，有效拳技术击打对方头部护具获得1分。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "在竞技跆拳道比赛中，所有腿法技术的单次有效得分均相同。（）", "type": 3, "right_answers": "B", "options": [{"name": "A", "content": "对", "is_right": 0}, {"name": "B", "content": "错", "is_right": 1}]}, {"content": "跆拳道起源于朝鲜半岛。（）", "type": 3, "right_answers": "A", "options": [{"name": "A", "content": "对", "is_right": 1}, {"name": "B", "content": "错", "is_right": 0}]}]
+[
+    {
+        "content": "在竞技跆拳道比赛中，有效拳击打躯干护具获得（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "1分",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "2分",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "3分",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "4分",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道是一项利用（）和脚进行搏击的对抗性运动。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "掌",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "膝",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "拳",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "肘",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，哪种情况属于用拳有效击打（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳击打对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "直拳击打对方护具有效部位",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "勾拳击打对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "勾拳击打对方腰部以下位置",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "以下教练员的那种行为是被允许的（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "不遵守主裁的口令或判定",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "辱骂对方选手或教练员",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "试图干扰比赛判定",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "休息期间给运动员讲解战术",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "国际首届跆拳道联盟主席由（）担任",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "罗格",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "魏纪中",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "崔泓熙",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "李金龙",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "当有三位边裁时，有其中几位边裁判定得分有效则为有效得分（）",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁一个人判定",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "一位边裁",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "二位或三位边裁",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "主裁加一位边裁",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，优势判定卡由谁携带（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "运动员",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "边裁",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "教练员",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "比赛中，躯干部分有效得分区域（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "被护具覆盖的所有区域",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "护具的蓝色或红色区域",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "运动员腰部以上所有区域",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "运动员全身",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，黄金得分胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "GDP",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "SUP",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "WDR",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "DSQ",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在黄金加时赛后，双方均未获得两分，则需通过（）的方式进行胜负判定。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "不道德行为失格胜",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "分差胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "优势判定胜",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "失格胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "如果参赛选手故意一再拒绝遵守竞赛规则或主裁的指令时，主裁可在比赛结束时（）并宣布对方选手获胜。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "出示黄牌",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "出示红牌",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "给选手扣分",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "给对方运动员加分",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，由于双方运动员比分相差悬殊而判定的比赛胜负被称为（）",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判终止比赛胜",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "失格胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "分差胜",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "优势判定胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道起源于哪个国家（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "韩国",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "朝鲜半岛",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "中国",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "日本",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得（）冠军。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "67+公斤",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "57-67公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "49-47公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "49公斤级以下",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道协会成立于（），魏纪中当选为第一任协会主席。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "1993年",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "1995年",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "1997年",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "1998年",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队历史上第一枚亚运会金牌由（）取得。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "贺璐敏",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "王朔",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "吴静钰",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在胜负判定中，PTG是哪一种判定方式的简称（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "分差胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "黄金得分胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "最终局数胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "比分或优势胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰，在2012年伦敦奥运会上取得（）冠军。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "72公斤级以上",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "57-67公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "49-57公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "49公斤级以下",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "2016年里约奥运会跆拳道比赛赛域场地面积为（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "6米X6米",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "8米X8米",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "10米X10米",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "12米X12米",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国男子跆拳道运动员赵帅在（）年奥运会上获得冠军。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "2004",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2008",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "2012",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "2016",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，以下哪个行为不属于犯规行为（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "连续有效使用高位技术进攻",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "抬腿阻碍",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "选手或运动员的不良行为",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "攻击已倒地的运动员",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "教练、领队或其他MNA会员的潜在的违规行为不包括（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "比赛中对官员、对方或观众的过激言行",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "指示运动员参与不当行为，如赛后留在比赛区域",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "投掷或踢打私人物品或竞赛材料等暴力行为",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "赛后安慰失利运动员",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在胜负判定中，GDP是哪一种判定方式的简称（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "黄金得分胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "最终局数胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "比分或优势胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "弃权胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，主裁判终止比赛胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "PUN",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "DSQ",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "SUP",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "RSC",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队第一个小级别奥运冠军为（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "吴静钰",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "贺璐敏",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "赵帅",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列技术中，允许攻击头部的技术不包括（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "高位横踢",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "下劈",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "后旋踢",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，当对方选手摔倒后，应当（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "无论裁判是否喊停，均要停止进攻",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "继续进攻，等裁判喊停后再停止进攻",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "无论裁判是否喊停，均不停止进攻",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "看对方摔倒情况，不严重的话继续进攻",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "1973年5月世界跆拳道联盟成立于（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "韩国汉城",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "朝鲜半岛",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "美国纽约",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "日本东京",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在胜负判定中，SUP是哪一种判定方式的简称（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "比分或优势胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "最终得分胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "弃权胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "失格胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，主裁判判罚犯规胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "DSQ",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "SUP",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "PUN",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "PTG",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员罗微，在（）年奥运会获得冠军。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "2000",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2004",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "2008",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "2012",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国男子跆拳道奥运会历史上的首枚金牌得主是（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "陈天阳",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "宋伟杰",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "赵帅",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "黄昌奇",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2016年伦敦奥运会中，利用后旋踢技术有效击中对方头部，获得（）分。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "2",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "3",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "4",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "5",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下面哪些运动员不是我国女子跆拳道奥运会冠军（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "赵帅",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "吴静钰",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "罗微",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "当选手被击倒后，主裁读秒到8时，选手仍无法示意可以继续比赛，则通过（）宣判另一方选手“击倒胜”。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "裁判终止比赛",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "分差",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "优势判定",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "弃权",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下面那种情况，在实战比赛中不属于犯规行为（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳击打对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "直拳击打对方护具有效部位",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "故意回避或消极比赛",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "抬腿阻碍对方进攻",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员陈中，在2000年悉尼奥运会上取得（）冠军。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "72公斤级以上",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "57-67公斤级",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "49-57公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "49公斤级以下",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "2017年9月，（）获得“最多跆拳道女子金牌（轻量级选手）”吉尼斯世界纪录称号。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "吴静钰",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "贺璐敏",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "赵帅",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，不道德行为失格胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "RSC",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "DQB",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "PTF",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "DSQ",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2022年跆拳道世锦赛中，单次有效得分为2分的技术有（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢击中对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "下劈腿法有效击中对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "高位横踢有效击中对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "横踢击中对方躯干护具",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在2022年跆拳道世锦赛中，选手利用有效旋转腿法击中对方选手躯干护具形成有效得分（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "3分",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "4分",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "5分",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "6分",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在胜负判定中，DSQ是哪一种判定方式的简称（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "失格胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "弃权胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "主裁判罚犯规胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "不道德行为失格胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队第一个小级别奥运冠军在哪一年获得（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "2000",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2004",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "2008",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "2012",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪位选手，没有在奥运会跆拳道项目获得过冠军的是（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "赵帅",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "贺璐敏",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "吴静钰",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，由于一方运动员弃权而判定比赛胜负的方式被称为（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判终止比赛胜",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "弃权胜",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "分差胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "优势判定胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，失格胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "PUN",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "SUP",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "DSQ",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "PTG",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在赛前称重过程中，青少年运动员必须穿着内衣进行称重，并允许有（）的误差。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "50g",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "200g",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "150g",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "100g",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "运动员潜在的违规行为包括（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "篡改PSS的积分器、传感器",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "由于被攻击而重心不稳倒地",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "合理技术连续有效攻击对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "直拳攻击对方选手护具",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "当选手被击倒后，主裁读秒到（）秒时，选手仍无法示意可以继续比赛，则通过裁判停止比赛宣判另一方选手“击倒胜”。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "5",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "6",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "7",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "8",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在胜负判定中，PUN是哪一种判定方式的简称（）",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判罚犯规胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "弃权胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "失格胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "最终得分胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国男子跆拳道运动员赵帅在2016年里约奥运会上获得（）冠军。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "58公斤级以下",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "58-68公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "68-80公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "80公斤级以上",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "实战比赛中，制定违规行为及惩罚的主要目的不包括（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "增加比赛的娱乐性",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "保护参赛运动员的安全",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "确保公平竞赛",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "鼓励使用恰当的技术",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员罗微，在2004年雅典奥运会上取得（）冠军。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "72公斤级以上",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "57-67公斤级",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "49-57公斤级",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "49公斤级以下",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道品势的掌法不包括（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "手刀",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "背刀",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "劈掌",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "贯手",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队历史上第一枚亚运会金牌在（）取得。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "2002",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2006",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "2010",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "2014",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2022年跆拳道世锦赛中，选手利用旋风踢击中对方选手头部形成有效得分（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "3分",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "4分",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "5分",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "6分",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，弃权胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "WDR",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "SUP",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "PTF",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "PTG",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪些行为不属于消极或回避比赛的行为（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "伪装受伤拖延比赛",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "为逃避对方选手进攻而转身、弯腰等行为",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "故意倒地拖延比赛时间",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "被对手击中后重心不稳倒地",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，如果得分发生在犯规后（因犯规而获得比分），得分应如何处理（）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判应宣布得分无效",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "得分有效，不做处理",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "主裁判与其他裁判商量得分是否有效",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "得分有效，但扣除犯规1分",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "运动员潜在的违规行为不包括（）。",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "比赛结束后不离开比赛区域",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "流程不遵守竞赛官员的裁决或命",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "在裁判的一再命令下不回到比赛中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "被攻击后由于重心不稳倒地",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些缩写不属于判定胜负时判定方式的缩写（）",
+        "type": 1,
+        "right_answers": "D",
+        "options": [
+            {
+                "name": "A",
+                "content": "PUN",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "PTF",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "RSC",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "CDS",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下面那一名运动员为中国赢得了跆拳道项目中第一枚亚洲冠军（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "贺璐敏",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "王朔",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "吴静钰",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛判定中，比分或优势胜的英文缩写为（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "GDP",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "SUP",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "PTF",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "DSQ",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2022年跆拳道世锦赛中，单次有效得分为3分的技术有（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢击中对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "下劈腿法有效击中对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "横踢有效击中对方躯干护具",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "后踢击中对方躯干护具",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "教练、领队或其他MNA会员的潜在的违规行为不包括（）。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "任何贿赂竞争事务官员的企图",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "赛后为选手进行技战术分析",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "任何对竞赛管理官员的其他严重不当行为",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "不按照竞赛官员的指示离开比赛场地或场馆",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在跆拳道项目中，我国第一个获得世界冠军的运动员是（）。",
+        "type": 1,
+        "right_answers": "C",
+        "options": [
+            {
+                "name": "A",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "贺璐敏",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "王朔",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "吴静钰",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道项目由（）年奥运会被列为正式比赛项目。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "2004",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2000",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "1996",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "2008",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道协会成立于1995年，（）当选为第一任协会主席。",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "金云龙",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "魏纪中",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "贺璐敏",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "当选手被对方有效技术击打倒地后，主裁读秒到8时，选手仍无法示意可以继续比赛，则通过裁判停止比赛宣判另一方选手（A）。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "击倒胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "优势胜",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "比分胜",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "分差胜",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "录像审议的范围仅限于教练在提出请求的（）以内的一个动作。",
+        "type": 1,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "前5秒钟",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "前20秒钟",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "前30秒钟",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "前一分钟",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪些缩写不属于判定胜负时判定方式的缩写（）",
+        "type": 1,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "KO",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "REC",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "WDR、",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "PTE",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "现代跆拳道的主要特点包括（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "以腿法为主，拳脚并用",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "以击破为测试功力的手段",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "强调气势，发声扬威",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "礼始礼终，培养良好道德品质",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道品势的掌法包括（）。",
+        "type": 2,
+        "right_answers": "ABD",
+        "options": [
+            {
+                "name": "A",
+                "content": "手刀",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "背刀",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "劈掌",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "贯手",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下面哪些是运动员是我国女子跆拳道奥运会冠军（）。",
+        "type": 2,
+        "right_answers": "ACD",
+        "options": [
+            {
+                "name": "A",
+                "content": "陈中",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "贺璐敏",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "罗微",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "吴静钰",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中以下哪些属于犯规行为（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "越出边界线",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "倒地",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "故意回避或消极比赛",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "抓或推对方运动员",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "以下哪些行为属于教练员不良行为（）。",
+        "type": 2,
+        "right_answers": "ABD",
+        "options": [
+            {
+                "name": "A",
+                "content": "不遵守主裁的口令或判定",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "辱骂对方选手或教练员",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "休息期间给运动员讲解战术",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "试图干扰比赛判定",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "教练、领队或其他MNA会员的潜在的违规行为包括（）。",
+        "type": 2,
+        "right_answers": "BCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "赛后安慰失利运动员",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "比赛中对官员、对方或观众的过激言行",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "指示运动员参与不当行为，如赛后留在比赛区域",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "投掷或踢打私人物品或竞赛材料等暴力行为",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在下列陈述中，不正确的陈述有（）。",
+        "type": 2,
+        "right_answers": "ABC",
+        "options": [
+            {
+                "name": "A",
+                "content": "我国男子跆拳道运动员赵帅在2012年里伦敦运会上获得冠军",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "比赛中，允许使用直拳攻击对方运动员头部。",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "中国跆拳道协会成立于1997年8月，魏纪中当选为第一任协会主席",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "实战比赛中，当对方运动员摔倒后则不允许继续攻击",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2016年里约奥运会中，单次有效得分为3分的技术有（）。",
+        "type": 2,
+        "right_answers": "BC",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢击中对方头部",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "下劈腿法有效击中对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "高位横踢有效击中对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "后旋踢击中对方头部",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "实战比赛中，制定违规行为及惩罚的主要目的是（）。",
+        "type": 2,
+        "right_answers": "BCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "增加比赛的娱乐性",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "保护参赛运动员的安全",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "确保公平竞赛",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "鼓励使用恰当的技术",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，当对方选手摔倒后，下列哪些行为是不正确的（）。",
+        "type": 2,
+        "right_answers": "BCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "无论裁判是否喊停，均要停止进攻",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "继续进攻，等裁判喊停后再停止进攻",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "无论裁判是否喊停，均不停止进攻",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "看对方摔倒情况，不严重的话继续进攻",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "运动员潜在的违规行为包括（）。",
+        "type": 2,
+        "right_answers": "ACD",
+        "options": [
+            {
+                "name": "A",
+                "content": "篡改PSS的积分器、传感器",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "由于被攻击而重心不稳倒地",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "为表示对判定结果的不满而投掷物品",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "在裁判的一再命令下不回到比赛中",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，得分区域包括（）。",
+        "type": 2,
+        "right_answers": "AB",
+        "options": [
+            {
+                "name": "A",
+                "content": "躯干：护具的蓝色或红色区域",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "头部：头盔底边上方的所有头部区",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "运动员腰部以上所有区域",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "运动员全身",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "以下哪些方式是比赛中判定胜负的方式（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "主裁判终止比赛胜",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "比分或优势胜",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "黄金得分胜",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "分差胜",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰，在（）届奥运会中取得冠军。",
+        "type": 2,
+        "right_answers": "BC",
+        "options": [
+            {
+                "name": "A",
+                "content": "28",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "29",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "30",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "31",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，那种情况不属于用拳有效击打（）。",
+        "type": 2,
+        "right_answers": "ACD",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳击打对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "直拳击打对方躯干护具有效部位",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "勾拳击打对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "勾拳击打对方腰部以下位置",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列技术中，允许攻击头部的技术包括（）。",
+        "type": 2,
+        "right_answers": "BCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "高位横踢",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "下劈",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "后旋踢",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在一般情况下，下列哪些腿法是用来攻击对方选手头部的（）。",
+        "type": 2,
+        "right_answers": "ABC",
+        "options": [
+            {
+                "name": "A",
+                "content": "下劈",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "后旋踢",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "高位横踢",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "中位横踢",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪些行为属于消极或回避比赛的行为，将会被判罚扣分（）。",
+        "type": 2,
+        "right_answers": "ABC",
+        "options": [
+            {
+                "name": "A",
+                "content": "伪装受伤拖延比赛",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "为逃避对方选手进攻而转身、弯腰等行",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "故意倒地拖延比赛时间",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "被对手击中后重心不稳倒地",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员陈中，在（）年奥运会中取得冠军。",
+        "type": 2,
+        "right_answers": "BC",
+        "options": [
+            {
+                "name": "A",
+                "content": "1996",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "2000",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "2004",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "2008",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "运动员潜在的违规行为不包括（）。",
+        "type": 2,
+        "right_answers": "BD",
+        "options": [
+            {
+                "name": "A",
+                "content": "篡改PSS的积分器、传感器",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "合理技术连续有效攻击对方头部",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "为表示对判定结果的不满而投掷物品",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "由于被攻击而重心不稳倒地",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道具有哪些作用（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "改善和增强体质",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "娱乐观赏",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "提高防身和自卫的能力",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "磨炼意志，培养高品格的修养",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，以下哪些属于犯规行为（）",
+        "type": 2,
+        "right_answers": "BCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "连续有效使用高位技术进攻",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "抬腿阻碍",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "选手或运动员的不良行为",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "攻击已倒地的运动员",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许用有效技术击打对方运动员（）",
+        "type": 2,
+        "right_answers": "AB",
+        "options": [
+            {
+                "name": "A",
+                "content": "头部",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "躯干护具",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "大腿",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "脊柱",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪些描述是错误的（）。",
+        "type": 2,
+        "right_answers": "BD",
+        "options": [
+            {
+                "name": "A",
+                "content": "在2012年伦敦奥运会上，比赛场地赛区规格采用8米X8米",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "在2012年伦敦奥运会上，比赛场地赛区规格采用10米X10米",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "在2016年里约奥运会上，横踢单次有效击中头部比击中躯干护具多一分",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "在2016年里约奥运会上，横踢单次有效击中头部比击中躯干护具多二分",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下面哪些是运动员是我国跆拳道奥运会冠军（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "赵帅",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "吴静钰",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "陈中",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "罗微",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "抓或推对方运动员，有下列行为之一的，应予以判罚犯规（）",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "将对手推出边界线",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "抓对方的道服",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "以推的方式阻碍对手的攻击或任何干扰正常的进攻技术动作",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "抱住对方腿部",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道是一项利用（）进行搏击的对抗性运动。",
+        "type": 2,
+        "right_answers": "BC",
+        "options": [
+            {
+                "name": "A",
+                "content": "掌",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "脚",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "拳",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "肘",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，下列哪些属于犯规行为（）。",
+        "type": 2,
+        "right_answers": "ABC",
+        "options": [
+            {
+                "name": "A",
+                "content": "攻击对方运动员腰部以下位置",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "抬腿阻碍",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "用手攻击对方运动员头部",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "使用有效技术攻击对方运动员护具",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "运动员潜在的违规行为包括（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "比赛结束后不离开比赛区域",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "流程中不遵守竞赛官员的裁决或命",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "在裁判的一再命令下不回到比赛中",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "不服从主裁的指令完成比赛结束",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些描述是正确的（）。",
+        "type": 2,
+        "right_answers": "AC",
+        "options": [
+            {
+                "name": "A",
+                "content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "在比赛中，可以采用拳的相关技术击打对方运动员头部",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在下列描述中，哪些描述是错误的（）。",
+        "type": 2,
+        "right_answers": "AC",
+        "options": [
+            {
+                "name": "A",
+                "content": "在比赛中，允许攻击运动员腰部以下部位",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "在判定方法中，主裁判终止比赛胜的英文缩写为GDP",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列哪些属于跆拳道的腿法（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "前踢腿",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "横踢腿",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "下劈",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "后踢",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些属于跆拳道的转身或旋转腿法（）。",
+        "type": 2,
+        "right_answers": "ABC",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "后旋踢",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "后踢",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "双飞",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，不允许使用的拳击技术包括（）。",
+        "type": 2,
+        "right_answers": "ABD",
+        "options": [
+            {
+                "name": "A",
+                "content": "勾拳",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "摆拳",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "直拳",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "背拳",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "教练、领队或其他MNA会员的潜在的违规行为包括（）。",
+        "type": 2,
+        "right_answers": "BC",
+        "options": [
+            {
+                "name": "A",
+                "content": "休息期间鼓励运动员",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "不按照竞赛官员的指示离开比赛场地或场馆",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "任何对竞赛管理官员的其他严重不当行为",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "休息期间给运动员讲解技战术",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "下列技术中，不允许攻击头部的技术包括（）。",
+        "type": 2,
+        "right_answers": "AC",
+        "options": [
+            {
+                "name": "A",
+                "content": "直拳",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "高位横踢",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "勾拳",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "后旋踢",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，不允许攻击对方选手下列哪些部位（）。",
+        "type": 2,
+        "right_answers": "ABD",
+        "options": [
+            {
+                "name": "A",
+                "content": "膝盖",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "小腿",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "头部",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "脊柱",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些描述是错误的（）。",
+        "type": 2,
+        "right_answers": "BD",
+        "options": [
+            {
+                "name": "A",
+                "content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "在比赛中，可以采用拳的相关技术击打对方运动员头部",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些属于跆拳道的腿法（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "后旋踢",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "后踢",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "双飞",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在下列描述中，哪些描述是正确的（）。",
+        "type": 2,
+        "right_answers": "ABD",
+        "options": [
+            {
+                "name": "A",
+                "content": "2016年里约奥运会跆拳道比赛赛域场地面积为8米X8米",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "在判定方法中，主裁判终止比赛胜的英文缩写为GDP",
+                "is_right": 0
+            },
+            {
+                "name": "D",
+                "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "我国跆拳道队获得过冠军的奥运会包括（）。",
+        "type": 2,
+        "right_answers": "ABCD",
+        "options": [
+            {
+                "name": "A",
+                "content": "2004年雅典奥运会",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "2008年北京奥运会",
+                "is_right": 1
+            },
+            {
+                "name": "C",
+                "content": "2012年伦敦奥运会",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "2016年里约奥运会",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "下列哪些不属于跆拳道的转身或旋转腿法的是（）。",
+        "type": 2,
+        "right_answers": "CD",
+        "options": [
+            {
+                "name": "A",
+                "content": "旋风踢",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "后旋踢",
+                "is_right": 0
+            },
+            {
+                "name": "C",
+                "content": "横踢",
+                "is_right": 1
+            },
+            {
+                "name": "D",
+                "content": "下劈",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道是一项利用拳和脚进行搏击的对抗性运动。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "国际跆拳道联盟（ITF）成立于1968年。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，运动员辱骂对方运动员或教练员的行为是不被允许的。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "1973年5月世界跆拳道联盟成立于韩国汉城。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "2012年伦敦奥运会跆拳道比赛赛区场地面积为12米乘以12米。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道比赛赛区场地面积使用过12米乘以12米，10米乘以10米，8米乘以8米等几种规格。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道比赛赛制包括循环赛制和单败淘汰赛制。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道中手刀、背刀和贯手这三个掌法限用于跆拳道品势比赛中。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在竞技跆拳道比赛中可以使用手刀进行攻击对方颈部。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "竞技跆拳道比赛中仅能使用腿法技术得分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "竞技跆拳道比赛中可以使用直拳进行正面进攻，但直拳只允许攻击对方运动员躯干护具。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "竞技跆拳道比赛中，使用拳法攻击对方运动员头部属于犯规动作。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "比赛过程中，运动员允许击打对方运动员脊柱部分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队第一个小级别奥运冠军是吴静钰。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在2016年伦敦奥运会中，有效旋转技术击打头部获得4分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道实战比赛中，不允许用拳进行攻击。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道项目在2000年奥运会中被列为奥运会正式比赛项目。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，如果得分发生在犯规后（因犯规而获得比分），主裁判应宣布得分无效。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许有效腿击技术攻击对方运动员头部。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许辱骂对方运动员。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在品势比赛中包含了个人比赛和团体比赛。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "王朔是我国第一个获得跆拳道世界冠军的运动员。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，有效转身技术击打对方头部护具得分要高于非旋转技术击打对方头部护具。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "竞技比赛中，抓抱对方运动员属于犯规动作。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“试图扰乱或影响比赛结果的不当行为”不属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“试图扰乱或影响比赛结果的不当行为”属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在赛前称重过程中，青少年运动员必须穿着内衣进行称重，并允许有200g的误差。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "国际跆拳道联盟首届主席由崔泓熙担任。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“以腿法为主，拳脚并用”是现代跆拳道的特点之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许攻击对方运动员腰部以下位置。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“磨炼意志，培养高品格的修养”是现代跆拳道的作用之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，不允许消极或者刻意回避比赛。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道项目由1996年奥运会被列为正式比赛项目。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在竞技跆拳道比赛中，攻击对方运动员腰部以下位置属于犯规动作。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，用掌击打护具有效部位得1分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "横踢、下劈腿、后旋踢、旋风踢均属于跆拳道的腿法技术。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰，在2008年北京奥运会上获得女子小公斤级冠军。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，利用后旋踢有效击中对方躯干护具得5分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "实战比赛中，不允许攻击已倒地的运动员。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队历史上第一枚亚运会金牌由贺璐敏取得。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“鼓励使用恰当的技术”是制定违规行为及惩罚的目的之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，如果运动员故意倒地，则要被判罚犯规。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员陈中，在2008年北京奥运会上获得冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，对判罚有异议，允许教练员合理使用录像审议。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“增加比赛的观赏性”是制定违规行为及惩罚的主要目的之一。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "当运动员累计犯规达到一定次数时，主裁判应通过判罚“犯规胜”宣布该名选手为败方。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“失格胜”是实战比赛中的一种判定胜负的方式。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "比赛中判罚“犯规胜”由边裁而不是主裁判罚。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在黄金加时赛后，双方均未获得腿法技术加分，则需通过优势判定的方式进行胜负判定。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在竞技实战比赛中，有效拳击打躯干护具获得1分。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰在2008年北京奥运会与2012年伦敦奥运会上均取得冠军。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国男子跆拳道运动员赵帅在2016年里约奥运会上获得58公斤级冠军。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "实战比赛中，在主裁判发出分开口令后，允许攻击对方运动员。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道项目不具有娱乐观赏的价值和作用。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许攻击已经倒地的运动员。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“主裁终止比赛胜”是实战比赛中的一种判定胜负的方式。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "优势判定，应基于对手的技术优势，通过积极的比赛控制，较多的技术运用、难度和复杂程度较高的技术运用以及更好的比赛方式展示。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，运动员只能通过脚的技术来进攻。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“不遵守主裁的指令或判定”属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，由于对方运动员出现不道德行为而获胜的情况称为“不道德行为失格胜”。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道协会成立于1995年8月，魏纪中当选为第一任协会主席。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "实战比赛中，当对方运动员摔倒后则不允许继续攻击。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，当选手用拳有效击打对方运动员护具后获得2分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“对官员判定的不当抗议行为”属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，允许攻击运动员腰部以下部位。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，选手长时间的提膝阻挡对方选手进攻的行为是不被允许的。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在判定方法中，比分或优势胜判定的英文缩写为GDP。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员陈中，在2004年雅典奥运会上获得冠军。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "2016年里约奥运会跆拳道比赛赛域场地面积为8米X8米。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国男子运动员目前为止没有获得过奥运会冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰，在2008年北京奥运会上获得47-57公斤级冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在比赛过程，由于选手犯规而导致的对方选手不能继续进行比赛，则采用“犯规胜”来判定对方运动员获胜。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国男子跆拳道运动员赵帅在里约奥运会上获得58-68公斤级冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在2018年更新的跆拳道规则中，有效转身技术击打护具获得2分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在竞技跆拳道比赛中，单次有效转身技术击打头部护具要比击打躯干护具得分高。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "中国跆拳道队第一个小级别奥运冠军为赵帅。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“发现未经认证的医生或其他队伍人员坐在医生席”不属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "如果参赛选手故意一再拒绝遵守跆拳道竞赛规则或主裁的指令时，主裁可在比赛结束时出示黄牌并宣布对方选手获胜。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“提高防身和自卫的能力”是现代跆拳道的作用之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许辱骂对方教练员。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“保护参赛运动员的安全”是制定违规行为及惩罚的目的之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛开始后，选手或教练员提出的弃权行为是不被允许的。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "2017年9月，吴静钰获得“最多跆拳道女子金牌（轻量级选手）”吉尼斯世界纪录称号。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员贺璐敏，在2000年悉尼奥运会上获得冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "比赛中判罚“犯规胜”由主裁判罚。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "跆拳道中手刀、背刀和贯手这三个掌法限用于跆拳道实战比赛中。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“强调气势，发声扬威”是现代跆拳道的特点之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，允许抬腿阻碍对方运动员进攻。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“分差胜”是实战比赛中的一种判定胜负的方式。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "“激怒或侮辱对方选手或教练”属于选手或教练员的不良行为之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "我国女子跆拳道运动员吴静钰在2016年伦敦奥运会上取得冠军。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "我国男子跆拳道奥运会历史上的首枚金牌得主是赵帅。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，可以采用拳的相关技术击打对方运动员头部。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道起源于韩国。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在比赛中，即使双方运动员比赛分数相差悬殊到一定程度，也不能作为比赛判定的依据。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在实战比赛中，当选手用拳击打对方运动员头部后获得3分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "“确保公平竞赛”是制定违规行为及惩罚的目的之一。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    },
+    {
+        "content": "在竞技跆拳道比赛中，有效拳技术击打对方头部护具获得1分。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "在竞技跆拳道比赛中，所有腿法技术的单次有效得分均相同。（）",
+        "type": 3,
+        "right_answers": "B",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 0
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 1
+            }
+        ]
+    },
+    {
+        "content": "跆拳道起源于朝鲜半岛。（）",
+        "type": 3,
+        "right_answers": "A",
+        "options": [
+            {
+                "name": "A",
+                "content": "对",
+                "is_right": 1
+            },
+            {
+                "name": "B",
+                "content": "错",
+                "is_right": 0
+            }
+        ]
+    }
+]

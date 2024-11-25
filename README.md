@@ -2,9 +2,9 @@
 
 在线网站： [sport.yixuanoct.top](https://sport.yixuanoct.top)
 
-![Static Badge](https://img.shields.io/badge/Framework-Spring_Boot_3.3.5-6DB33F?logo=springboot)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-3.3.5-6DB33F?logo=springboot)
 
-![](https://count.getloli.com/@whut-stqb?name=whut-stqb&theme=booru-ffsr)
+![](https://count.getloli.com/@whut-sporttheory?theme=booru-ffsr)
 
 ## 联系方式
 
