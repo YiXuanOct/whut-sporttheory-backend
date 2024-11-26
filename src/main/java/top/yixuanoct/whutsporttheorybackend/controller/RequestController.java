@@ -9,13 +9,12 @@ import top.yixuanoct.whutsporttheorybackend.service.IRequestService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/sporttheory")
+@RequestMapping("/api")
 public class RequestController {
     @Autowired
     private IRequestService questionService;
 
     @PostMapping()
-    @CrossOrigin(origins = "http://localhost")
     public List<Question> search(@RequestBody Request request) {
         return questionService.search(request);
     }
