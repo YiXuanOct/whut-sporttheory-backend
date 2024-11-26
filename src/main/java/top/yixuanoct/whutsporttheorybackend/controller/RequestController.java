@@ -8,7 +8,6 @@ import top.yixuanoct.whutsporttheorybackend.service.IRequestService;
 
 import java.util.List;
 
-@CrossOrigin()
 @RestController
 @RequestMapping("/sporttheory")
 public class RequestController {
@@ -16,6 +15,7 @@ public class RequestController {
     private IRequestService questionService;
 
     @PostMapping()
+    @CrossOrigin(origins = "http://localhost")
     public List<Question> search(@RequestBody Request request) {
         return questionService.search(request);
     }

@@ -1,6 +1,6 @@
 # 武汉理工大学体育理论考试题库
 
-在线网站： [sport.yixuanoct.top](https://sport.yixuanoct.top)
+在线网站： [sporttheory.yixuanoct.top](https://sport.yixuanoct.top)
 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-3.3.5-6DB33F?logo=springboot)
 
@@ -17,3 +17,7 @@
 更多详细内容请查看 [LICENSE](./LICENSE)
 
 ![](./src/main/resources/CC%20BY-NC-ND%204.0.png)
+
+## 相关链接
+
+[whut-sporttheory-frontend](https://github.com/YiXuanOct/whut-sporttheory-frontend)
